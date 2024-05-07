@@ -1,0 +1,75 @@
+
+#newUserPage{
+    display: none;
+}
+#medicinePage{
+    display: none; 
+}
+
+.navbar{
+    display: flex;
+    gap: 1rem; 
+}
+#medicineDetails{
+    display: none;
+}
+#quantity-container{
+    display: none;
+}
+#order-container{
+    display: none;
+}
+#updateBalance{
+    display: none;
+}
+#showBalance{
+    display: none;
+}
+.navbar{
+    display: flex;
+    gap: 1rem;
+    color:white;
+    background-color: rgb(0, 123, 255);
+    padding: 1rem;
+}
+.main-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.home{
+    background-color: aliceblue;
+    border-radius: 1rem;
+    padding: 4rem;
+    width:fit-content;
+    border: 1px solid rgba(50,50,50,0.4);
+    margin:0 auto;
+    text-align: right;
+}
+
+input{
+    padding: 0.8rem 1rem;
+    border: 1px solid rgba(50,50,50,0.6);
+    border-radius: 1rem;
+}
+
+button{
+    background-color: white;
+    padding: 0.8rem 1rem;
+    border: 1px solid raga(50,50,50,0.63);
+    border-radius: 1rem;
+}
+
+.container{
+    width: 80vw;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+
+th,td{
+    min-width: 5rem;
+    text-align: center;
+}
+
+
